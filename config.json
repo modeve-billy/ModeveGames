@@ -1,5 +1,8 @@
 {
-  "realm": "local",
-  "dev_domain": "http://localhost:8080",
-  "run_domain": "http://localhost:8080"
+  "realm": "production",
+  "dev_domain": "app.modeve.games",
+  "run_domain": "app.modeve.games",
+  "backup-key": "your_backup_service_key",
+  "builder-key": "your_builder_service_key",
+  "relay-key": "your_relay_key"
 }
