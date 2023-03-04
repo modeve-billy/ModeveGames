@@ -1,7 +1,7 @@
 {
   "realm": "production",
-  "dev_domain": "app.modeve.games",
-  "run_domain": "app.modeve.games",
+  "dev_domain": "https://modeve-games.vercel.app/",
+  "run_domain": "https://modeve-games.vercel.app/",
   "backup-key": "your_backup_service_key",
   "builder-key": "your_builder_service_key",
   "relay-key": "your_relay_key"
