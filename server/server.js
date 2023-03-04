@@ -49,7 +49,7 @@ this.Server = class Server {
     };
     this.last_backup_time = 0;
     if (this.config.realm === "production") {
-      this.PORT = 443;
+      this.PORT = 10000;
       this.PROD = true;
     } else if (this.config.standalone) {
       this.PORT = this.config.port || 0;
