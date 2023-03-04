@@ -1,0 +1,16 @@
+.sounds-right {
+  position: absolute ;
+  right: 0px ;
+  width: 400px ;
+  top: 0 ;
+  bottom: 0 ;
+  overflow: hidden ;
+}
+
+#sample-editor {
+  position: absolute ;
+  top: 40px;
+  left: 0 ;
+  right: 0 ;
+  bottom: 0 ;
+}
